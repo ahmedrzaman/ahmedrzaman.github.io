@@ -1,2 +1,4 @@
-# ahmedrzaman.github.io
-My personal website
+# CODEPRO
+# TECH
+
+A technology enthusiast's website
